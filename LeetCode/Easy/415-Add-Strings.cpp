@@ -1,6 +1,6 @@
 // Question Link : https://leetcode.com/problems/add-strings/
-// Time Complexity : O(N) where n is the length of string
-// Spcae Complexity : O(1)
+// Time Complexity : O(N) where N is the length of longest string (num1 or num2)
+// Space Complexity : O(N) where N is the length of longest string (num1 or num2)
 
 
 class Solution {

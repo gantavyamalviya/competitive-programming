@@ -14,7 +14,7 @@ public:
            {
                return true;
            }
-            char c=A.front();
+            char c=A[0];
             A.erase(A.begin(),A.begin()+1);
             A.push_back(c);
             count--;
